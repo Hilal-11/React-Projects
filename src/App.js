@@ -25,6 +25,7 @@ export default function App() {
           <UseContext></UseContext>
           <UseReducer></UseReducer>
           <UseLayoutEffect></UseLayoutEffect>
+          <h1>Hello Fucking World</h1>
       </div>  
     </div>
   )
